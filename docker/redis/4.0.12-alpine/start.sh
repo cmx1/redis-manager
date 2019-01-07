@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 ip=$1
 port=$2
